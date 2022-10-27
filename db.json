@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "teddy",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 9999999.99,
+      "id": 8
+    },
+    {
+      "name": "teddy",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 9999999.99,
+      "id": 9
+    },
+    {
+      "name": "teddy",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 9999999.99,
+      "id": 10
+    },
+    {
+      "name": "teddy",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 9999999.99,
+      "id": 11
+    },
+    {
+      "name": "teddy",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 9999999.99,
+      "id": 12
+    },
+    {
+      "name": "fdsafs",
+      "image": "https://www.outdoorhappens.com/wp-content/uploads/2021/08/funny-portrait-of-cute-dog-in-nature.jpg",
+      "price": 99999999999,
+      "id": 13
     }
   ]
 }

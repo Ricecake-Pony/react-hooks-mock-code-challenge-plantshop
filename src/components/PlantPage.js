@@ -3,12 +3,16 @@ import NewPlantForm from "./NewPlantForm";
 import PlantList from "./PlantList";
 import Search from "./Search";
 
-function PlantPage() {
+function PlantPage(props) {
+const {searchFilter, plants}= props
+  
   return (
     <main>
-      <NewPlantForm />
-      <Search />
-      <PlantList />
+      <NewPlantForm 
+      submitChange= {props.submitChange}
+      />
+      <Search searchFilter={searchFilter}/>
+      <PlantList plants= {plants}/>
     </main>
   );
 }
